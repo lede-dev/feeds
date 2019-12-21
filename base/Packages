@@ -281,3 +281,15 @@ SHA256sum: 9523e3f2fb896bb5335b52698c478bc84c1f4bb95eeda4685e7d913594716db0
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
+Package: udpspeeder
+Version: 20190408-1
+Depends: libc
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 198351
+Filename: udpspeeder_20190408-1_mipsel_24kc.ipk
+Size: 199002
+SHA256sum: 2d94046c37034d2da944211a93fe3af54eecc2514c956228b164a6eb2204ff4d
+Description:  A tunnel which improves your network quality on a high-latency lossy link
+ by using forward error correction, for all traffics (TCP/UDP/ICMP).
+
