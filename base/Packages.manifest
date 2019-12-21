@@ -347,16 +347,16 @@ SHA256sum: 2f48ced3525194ca3256f19d2bcdbbf6aacd1d13a3977cff242b201e405a7a0a
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: udp2raw
-Version: 20190716-3
+Version: 20190716-4
 Depends: libc
 Source: package/openwrt-dev/net/openwrt-udp2raw
 SourceName: udp2raw
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 460617
-Filename: udp2raw_20190716-3_mipsel_24kc.ipk
-Size: 460072
-SHA256sum: 0b7eba402a8ef46b24ebc203fac6f8a7a5aa84b4d3785cb9c9529ba5ba4b7f4b
+Installed-Size: 460585
+Filename: udp2raw_20190716-4_mipsel_24kc.ipk
+Size: 460045
+SHA256sum: 9523e3f2fb896bb5335b52698c478bc84c1f4bb95eeda4685e7d913594716db0
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
