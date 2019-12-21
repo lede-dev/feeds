@@ -270,14 +270,14 @@ SHA256sum: 571e26f29372b05ac0602f06f7f1987099e6ed117fa7ad9cc7eb889073c7d2c5
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: udp2raw
-Version: 20190716-3
+Version: 20190716-4
 Depends: libc
 Section: net
 Architecture: mips_24kc
-Installed-Size: 462786
-Filename: udp2raw_20190716-3_mips_24kc.ipk
-Size: 462033
-SHA256sum: c7b9cfe088d3211df76a15ca336cb0526eaf98a2d314de8817e561aa109078e3
+Installed-Size: 462759
+Filename: udp2raw_20190716-4_mips_24kc.ipk
+Size: 462000
+SHA256sum: c68d97466a4868b187bd69aef2fb0d13790e8999661f293c25a314f96e1ebded
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
