@@ -283,7 +283,7 @@ Description:  The aim of the mbedtls project is to provide a quality, open-sourc
  CSR generation (gen_key, cert_req)
 
 Package: shadowsocks-libev-server
-Version: 3.3.3-1
+Version: 3.3.4-1
 Depends: libc, libpthread
 Source: package/openwrt-dev/net/openwrt-shadowsocks
 SourceName: shadowsocks-libev-server
@@ -292,14 +292,14 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 376847
-Filename: shadowsocks-libev-server_3.3.3-1_mipsel_24kc.ipk
-Size: 377384
-SHA256sum: 06701dbac8d83c904002f21a772220f40e4897c55bcf7baeeaacc1d335564fc9
+Installed-Size: 376903
+Filename: shadowsocks-libev-server_3.3.4-1_mipsel_24kc.ipk
+Size: 377381
+SHA256sum: f3f27d7f723a4f13246bc841852d5718b60eb83b8f2db30e7cb8276dca025d89
 Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
 
 Package: shadowsocks-libev
-Version: 3.3.3-1
+Version: 3.3.4-1
 Depends: libc, libpthread
 Source: package/openwrt-dev/net/openwrt-shadowsocks
 SourceName: shadowsocks-libev
@@ -308,10 +308,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 901638
-Filename: shadowsocks-libev_3.3.3-1_mipsel_24kc.ipk
-Size: 901358
-SHA256sum: ffde3cce2ea3ed5559a0cb17b8dcc4f319558e0278f3f727742265291a0dc440
+Installed-Size: 901685
+Filename: shadowsocks-libev_3.3.4-1_mipsel_24kc.ipk
+Size: 901478
+SHA256sum: e6628b23d76db26e86c4959c85f9dcce0c4dccc7b96916bb552b783097cf1a64
 Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
 
 Package: simple-obfs-server
