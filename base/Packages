@@ -11,15 +11,15 @@ SHA256sum: db993b324919f9a592f9cf7d6e873cef0198625bcdf2ab34a94623863cc55a57
 Description:  Protect yourself against DNS poisoning in China.
 
 Package: chinadns-ng
-Version: 1.0-beta.18-1
+Version: 1.0-beta.20-1
 Depends: libc, ipset
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 384614
-Filename: chinadns-ng_1.0-beta.18-1_mipsel_24kc.ipk
-Size: 385394
-SHA256sum: 1b1bd3312bb00dee1284acbc3161e91410be362f56daeecda137706e550668ad
+Installed-Size: 384710
+Filename: chinadns-ng_1.0-beta.20-1_mipsel_24kc.ipk
+Size: 385527
+SHA256sum: 10dd941c9858b6ab237d6a978cbadbd7bb6f9625502e9ad089fc727520a18d0d
 Description:  ChinaDNS next generation, refactoring with epoll and ipset.
 
 Package: dns-forwarder
@@ -246,27 +246,27 @@ SHA256sum: 3297ac69cd7e6c532e845e24f1ac5aef46beb58bf29b5afca0b1a52613801dc6
 Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
 
 Package: simple-obfs-server
-Version: 0.0.5-4
+Version: 0.0.5-5
 Depends: libc, libpthread
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 106384
-Filename: simple-obfs-server_0.0.5-4_mipsel_24kc.ipk
-Size: 107093
-SHA256sum: b03354b86c8d935f1e12b1cdaf40bfeb5cd15c2be1f119693fde8cfd5587a649
+Installed-Size: 106383
+Filename: simple-obfs-server_0.0.5-5_mipsel_24kc.ipk
+Size: 107097
+SHA256sum: ca6d0de928728e6878376a5c56fdad81dc67c676810cbba16b54bdc1bc1c7d59
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: simple-obfs
-Version: 0.0.5-4
+Version: 0.0.5-5
 Depends: libc, libpthread
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 105005
-Filename: simple-obfs_0.0.5-4_mipsel_24kc.ipk
-Size: 105770
-SHA256sum: c0ca72b11085e1abc70451d2c66cb5a3f759bc9a2cd1d23126b221b65429597e
+Installed-Size: 105012
+Filename: simple-obfs_0.0.5-5_mipsel_24kc.ipk
+Size: 105778
+SHA256sum: 2dfae2d34ee77fd40efb988f95b7f38aee00341b7e04c5020b50d9715239c397
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: udp2raw
