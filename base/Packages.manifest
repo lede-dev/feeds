@@ -15,7 +15,7 @@ SHA256sum: db993b324919f9a592f9cf7d6e873cef0198625bcdf2ab34a94623863cc55a57
 Description:  Protect yourself against DNS poisoning in China.
 
 Package: chinadns-ng
-Version: 1.0-beta.21-1
+Version: 1.0-beta.22-1
 Depends: libc, ipset
 Source: package/openwrt-dev/net/openwrt-chinadns-ng
 SourceName: chinadns-ng
@@ -24,10 +24,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 394321
-Filename: chinadns-ng_1.0-beta.21-1_mipsel_24kc.ipk
-Size: 395220
-SHA256sum: 111b8e316f5a11c31983951d0388a449df369d7f97641802f9c80a353f1c9fa5
+Installed-Size: 394304
+Filename: chinadns-ng_1.0-beta.22-1_mipsel_24kc.ipk
+Size: 395200
+SHA256sum: 46846ebf67e4b27793f5610c311eb49ce0a2f68435ec8633e7ef7fa019c46a70
 Description:  ChinaDNS next generation, refactoring with epoll and ipset.
 
 Package: dns-forwarder
