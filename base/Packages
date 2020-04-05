@@ -16,10 +16,10 @@ Depends: libc, ipset
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 394306
+Installed-Size: 394761
 Filename: chinadns-ng_1.0-beta.22-2_mipsel_24kc.ipk
-Size: 395188
-SHA256sum: 46fc6dee9a00abf4e44a3ccc0a38fa1514643d4562e5a7259aceef18a55c21a0
+Size: 395664
+SHA256sum: c75888342b484c16fd53a31f124fa13acc76ae347481fa1dc42f5134c776e389
 Description:  ChinaDNS next generation, refactoring with epoll and ipset.
 
 Package: dns-forwarder
@@ -40,10 +40,10 @@ Depends: libc
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 16730
+Installed-Size: 17513
 Filename: dns2tcp_1.1.0-1_mipsel_24kc.ipk
-Size: 17500
-SHA256sum: 7ad1b068c33ce3cc5d686c0acaee74047a2c224f89732cd699b0fd61287afbf2
+Size: 18324
+SHA256sum: 5c3ac9f5748ecb7b7a7c6dc534e251dd8e60e01bb3fd9a05be6488a7aaaaf276
 Description:  Utility to convert DNS query from UDP to TCP.
 
 Package: hev-socks5-server
