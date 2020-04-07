@@ -40,22 +40,22 @@ Depends: libc
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 17513
+Installed-Size: 17479
 Filename: dns2tcp_1.1.0-1_mipsel_24kc.ipk
-Size: 18324
-SHA256sum: 5c3ac9f5748ecb7b7a7c6dc534e251dd8e60e01bb3fd9a05be6488a7aaaaf276
+Size: 18297
+SHA256sum: 8efa9da363097cdc9b8ff1281476f13326f9d2209d5dc908a107642b21f9cae4
 Description:  Utility to convert DNS query from UDP to TCP.
 
 Package: hev-socks5-server
-Version: 1.9.3-2
+Version: 1.9.4-1
 Depends: libc
 License: GPLv3
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 74994
-Filename: hev-socks5-server_1.9.3-2_mipsel_24kc.ipk
-Size: 75755
-SHA256sum: 582aee1b5e1aaf66423e526f7e54fa5ac5c506362b0dc40c314ba5677fceab7a
+Installed-Size: 74978
+Filename: hev-socks5-server_1.9.4-1_mipsel_24kc.ipk
+Size: 75750
+SHA256sum: 70a94e389c328fffaffc76830b05ceefc0db39c64f4b554e5fc57dad5b6b3801
 Description:  A simple, lightweight socks5 server for Unix.
 
 Package: ipt2socks
