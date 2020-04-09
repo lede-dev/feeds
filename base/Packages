@@ -34,6 +34,18 @@ Size: 9627
 SHA256sum: 1538bb3a974af22e5c57c08135519db46e9c5b0103c2361988fb512ea8665e0e
 Description:  Forwarding DNS queries on TCP transport.
 
+Package: dns2socks
+Version: 2.1-1
+Depends: libc, libpthread
+License: GPL-3.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 12162
+Filename: dns2socks_2.1-1_mipsel_24kc.ipk
+Size: 12947
+SHA256sum: 18ec12a664c101cac0da14fe00f2556907d857f4bd7f6e2fe56ff0301c112780
+Description:  This is a command line utility to resolve DNS requests via a SOCKS tunnel like Tor or a HTTP proxy.
+
 Package: dns2tcp
 Version: 1.1.0-1
 Depends: libc
