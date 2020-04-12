@@ -11,15 +11,15 @@ SHA256sum: db993b324919f9a592f9cf7d6e873cef0198625bcdf2ab34a94623863cc55a57
 Description:  Protect yourself against DNS poisoning in China.
 
 Package: chinadns-ng
-Version: 1.0-beta.22-3
+Version: 1.0-beta.22-4
 Depends: libc, ipset
 License: GPL-3.0
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 394769
-Filename: chinadns-ng_1.0-beta.22-3_mipsel_24kc.ipk
-Size: 395727
-SHA256sum: b623e07b2f9edf15e43b645231dae8ef77d2b59872d9cd73fa73ffd498f9c381
+Installed-Size: 394732
+Filename: chinadns-ng_1.0-beta.22-4_mipsel_24kc.ipk
+Size: 395692
+SHA256sum: 6cd355435688dc866b8ddcd6d22d752db9fe45e70d94dbdec39d48ac36bbee3a
 Description:  ChinaDNS Next Generation, refactoring with epoll and ipset.
 
 Package: dns-forwarder
