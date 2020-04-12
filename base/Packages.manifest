@@ -56,10 +56,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 12162
+Installed-Size: 12153
 Filename: dns2socks_2.1-1_mipsel_24kc.ipk
-Size: 12947
-SHA256sum: 18ec12a664c101cac0da14fe00f2556907d857f4bd7f6e2fe56ff0301c112780
+Size: 12939
+SHA256sum: d09b5555be41332e1fa540e228156c79b4f8e2bd563ce1b1c696a7265ed8be20
 Description:  This is a command line utility to resolve DNS requests via a SOCKS tunnel like Tor or a HTTP proxy.
 
 Package: dns2tcp
@@ -72,10 +72,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 17479
+Installed-Size: 17467
 Filename: dns2tcp_1.1.0-1_mipsel_24kc.ipk
-Size: 18301
-SHA256sum: c5752310a9d73e5710b0795794b32c3e1969cbd06d095b40c31b744eb7935203
+Size: 18283
+SHA256sum: 283e393093c4a8edddd4d30e429ef85dbd2caaf7627517734f29470304004b99
 Description:  Utility to convert DNS query from UDP to TCP.
 
 Package: hev-socks5-server
@@ -88,10 +88,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 74978
+Installed-Size: 74976
 Filename: hev-socks5-server_1.9.4-1_mipsel_24kc.ipk
-Size: 75750
-SHA256sum: 70e92499c73ef895db0b40820ebda1a1b239fa77020772773f86cc9e36230fa9
+Size: 75747
+SHA256sum: 09f05f84a40c257203f39e949d80525ca58d1d0fc23d7bb4167496fa552e9ae4
 Description:  A simple, lightweight socks5 server for Unix.
 
 Package: ipt2socks
@@ -104,10 +104,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 56226
+Installed-Size: 56203
 Filename: ipt2socks_1.0.2-1_mipsel_24kc.ipk
-Size: 56956
-SHA256sum: fd64a0c91fa91ed649ca3ea82852277569351bd3e4dde99838517d44b95b1f6b
+Size: 56938
+SHA256sum: cf28a89cde880a68d1f1695afac1ea23336b7fa7ece643d5d41bed629ac216c6
 Description:  Utility for converting iptables (REDIRECT/TPROXY) to SOCKS5.
 
 Package: libcares
@@ -369,10 +369,10 @@ Source: package/openwrt-dev/net/openwrt-udp2raw
 SourceName: udp2raw
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 459934
+Installed-Size: 459913
 Filename: udp2raw_20190716-5_mipsel_24kc.ipk
-Size: 459276
-SHA256sum: cd047cb2502f69ea82c942d43f48775b6ad165df94204f7c1fd519c082ced2ca
+Size: 459171
+SHA256sum: af7ab7f269e6cf2e0bf4faca42df723b7bb1bcb81871e4159681dd3cfd970fd7
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
@@ -383,10 +383,10 @@ Source: package/openwrt-dev/net/openwrt-udpspeeder
 SourceName: udpspeeder
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 198399
+Installed-Size: 198384
 Filename: udpspeeder_20190408-2_mipsel_24kc.ipk
-Size: 199085
-SHA256sum: bd5c48cc5f143fe638b62be71df31e717176826b20cabbf523f3d5dbe0c2d051
+Size: 199082
+SHA256sum: 19b2b46a1ef7ef20f56571c3580e64e96de3152f64ad86d30396faad730dae56
 Description:  A tunnel which improves your network quality on a high-latency lossy link
  by using forward error correction, for all traffics (TCP/UDP/ICMP).
 
