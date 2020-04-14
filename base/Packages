@@ -286,10 +286,10 @@ Version: 20190716-5
 Depends: libc
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 459913
+Installed-Size: 459917
 Filename: udp2raw_20190716-5_mipsel_24kc.ipk
-Size: 459171
-SHA256sum: af7ab7f269e6cf2e0bf4faca42df723b7bb1bcb81871e4159681dd3cfd970fd7
+Size: 459248
+SHA256sum: 1458b767ec61f65fd88b1673efbca734448175005cc958560697cbfac4950b8e
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
