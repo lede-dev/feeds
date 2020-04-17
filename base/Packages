@@ -64,10 +64,10 @@ Depends: libc
 License: GPL-3.0
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 81580
+Installed-Size: 81488
 Filename: hev-socks5-server_1.9.4-2_mipsel_24kc.ipk
-Size: 82334
-SHA256sum: a3759a9ebeb95174b5b6071e0135de07809f36def263a9316bfe5f545897233e
+Size: 82221
+SHA256sum: 602a3c17d008ad3cb4f6a318af8f202924671087beaef7d530b86d0d50d6cff2
 Description:  A simple, lightweight socks5 server for Unix.
 
 Package: ipt2socks
@@ -316,4 +316,16 @@ Size: 199082
 SHA256sum: 19b2b46a1ef7ef20f56571c3580e64e96de3152f64ad86d30396faad730dae56
 Description:  A tunnel which improves your network quality on a high-latency lossy link
  by using forward error correction, for all traffics (TCP/UDP/ICMP).
+
+Package: vlmcsd
+Version: svn1113-1
+Depends: libc, libpthread
+License: GPL-3.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 45464
+Filename: vlmcsd_svn1113-1_mipsel_24kc.ipk
+Size: 46331
+SHA256sum: 97d6548e18a9639fcba466ae6c4cf6ad55bcb5912307dbf435005320d6b3cc96
+Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
