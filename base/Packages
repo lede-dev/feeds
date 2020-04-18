@@ -323,9 +323,9 @@ Depends: libc, libpthread
 License: GPL-3.0
 Section: net
 Architecture: mips_24kc
-Installed-Size: 45439
+Installed-Size: 45761
 Filename: vlmcsd_svn1113-1_mips_24kc.ipk
-Size: 46182
-SHA256sum: 5bbaa60b79762d476b7a8409f185bc621853ad6cfd9ac3033db7c66af4c4a7f1
+Size: 46509
+SHA256sum: 2a1f620ff2415f1a0ae4cd83539bb4e8bff134ed50cee198a6b8738e41a369d8
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
