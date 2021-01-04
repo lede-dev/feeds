@@ -10,8 +10,8 @@ Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
 Installed-Size: 36261
 Filename: ChinaDNS_1.3.3-1_mipsel_24kc.ipk
-Size: 35872
-SHA256sum: 53dd90e8ea7deb5b2eb4ff40a9181c792675e55e072ed11a1984d8ed19a773f4
+Size: 35892
+SHA256sum: 49f69f162c58f7f3036d18bb14c701194e01892950d5ec494304d27c6a864557
 Description:  Protect yourself against DNS poisoning in China.
 
 Package: chinadns-ng
@@ -24,10 +24,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 394711
+Installed-Size: 394714
 Filename: chinadns-ng_1.0-beta.23-1_mipsel_24kc.ipk
-Size: 395647
-SHA256sum: 350f7ae1bb5ad0667c309f345c809c6c1f3e563c7b92d3f234fa9f3b44d4865b
+Size: 395668
+SHA256sum: 21659ba76fe44fbe5f3b9764f70910bf9bcbc68f52e4b27879b4262b87b16744
 Description:  ChinaDNS Next Generation, refactoring with epoll and ipset.
 
 Package: dns-forwarder
@@ -40,10 +40,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 8844
+Installed-Size: 8846
 Filename: dns-forwarder_1.2.1-2_mipsel_24kc.ipk
-Size: 9632
-SHA256sum: 6f840f1390e4d0e161fb06c0043f219e68aebd599ad37f4504f347c85d85ea70
+Size: 9633
+SHA256sum: 0a7d371c10a5f98d5a9781b1b70bd2d242049f44bbf6377b3f4c30155120b5ae
 Description:  Forwarding DNS queries on TCP transport.
 
 Package: dns2socks
@@ -56,10 +56,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 12149
+Installed-Size: 12153
 Filename: dns2socks_2.1-1_mipsel_24kc.ipk
-Size: 12936
-SHA256sum: f3a92cafe8cbdac5a2a0b609e11a84d78368ece24cf1f8de197bd100e7f9204e
+Size: 12942
+SHA256sum: 2d998f6e08f5a967e0a9c7a38f4595d31ea872b0d76993f0f9b7ac65aa418417
 Description:  This is a command line utility to resolve DNS requests via a SOCKS tunnel like Tor or a HTTP proxy.
 
 Package: dns2tcp
@@ -72,10 +72,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 17568
+Installed-Size: 17570
 Filename: dns2tcp_1.1.0-3_mipsel_24kc.ipk
-Size: 18368
-SHA256sum: 35964927ec544777b3eec7caacb814109555902d2bca07e19220899c402ad73d
+Size: 18372
+SHA256sum: 6b6e5f522f7c7924262417762f3f4333c4f1deacafc633d73177ffc87a598221
 Description:  Utility to convert DNS query from UDP to TCP.
 
 Package: hev-socks5-server
@@ -88,10 +88,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 81438
+Installed-Size: 81446
 Filename: hev-socks5-server_1.9.7-1_mipsel_24kc.ipk
-Size: 82150
-SHA256sum: 1989daf7d659e29c51eb31bd39993122fb63ae2d663aec4ecd5842bff69274db
+Size: 82156
+SHA256sum: 63e9e24abbe2004ba0127315aaa7324e84736487730a3f08b0c392c0ad1a4a06
 Description:  A simple, lightweight socks5 server for Unix.
 
 Package: ipt2socks
@@ -104,10 +104,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 35237
+Installed-Size: 35239
 Filename: ipt2socks_1.1.3-1_mipsel_24kc.ipk
-Size: 36032
-SHA256sum: 0f9cdd6f8d6c14a4df57025026852ec5fde7a2c470b45c4a891191055c909fff
+Size: 36034
+SHA256sum: 7621cf9ad5d6982f77ac607e0d35aae945817428b0b32997cfd98cfe812b37bd
 Description:  Utility for converting iptables (REDIRECT/TPROXY) to SOCKS5.
 
 Package: libcares
@@ -121,8 +121,8 @@ Maintainer: Karl Palsson <karlp@etactica.com>
 Architecture: mipsel_24kc
 Installed-Size: 31886
 Filename: libcares_1.15.0-4_mipsel_24kc.ipk
-Size: 32726
-SHA256sum: 5ce8c80d3c3f56d9929a7c8da923d9b0b79da69c6e8d17d73accbef1b8be5fdf
+Size: 32721
+SHA256sum: d6db86bd5b7be0f7f1e2649b26db0812e3d533fee58cf5d9cbae926c878b19a8
 Description:  c-ares is a C library for asynchronous DNS requests (including name resolves)
  
  C89 compatibility, MIT licensed, builds for and runs on POSIX, Windows,
@@ -138,10 +138,10 @@ License: BSD-2-Clause
 Section: libs
 Maintainer: Karl Palsson <karlp@tweak.net.au>
 Architecture: mipsel_24kc
-Installed-Size: 22864
+Installed-Size: 22862
 Filename: libev_4.27-1_mipsel_24kc.ipk
-Size: 23611
-SHA256sum: 085af6481814ac5d7dc40bf59ada9c2f2a1f0c60262d75fc942327d03cdaab18
+Size: 23610
+SHA256sum: fae932a91590c17eba0c29c5bc6f4ea6811b54815b79d4bba7fdb1b8768756ef
 Description:  A full-featured and high-performance event loop that is loosely modelled after
  libevent, but without its limitations and bugs.
 
@@ -154,10 +154,10 @@ SourceName: libmbedtls
 License: GPL-2.0+
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 181511
+Installed-Size: 181507
 Filename: libmbedtls12_2.16.2-2_mipsel_24kc.ipk
-Size: 181977
-SHA256sum: a3d791088e27cced78af915626d6a24ad6d977f49f0ef6b88f40c05e09fba11a
+Size: 181960
+SHA256sum: b943b13643cafaaa36e20a8e75321328a424b8da66cdcee6292332599329b76c
 Description:  The aim of the mbedtls project is to provide a quality, open-source
  cryptographic library written in C and targeted at embedded systems.
  This package contains the mbedtls library.
@@ -172,10 +172,10 @@ LicenseFiles: LICENCE
 Section: libs
 Maintainer: Thomas Heil <heil@terminal-consulting.de>
 Architecture: mipsel_24kc
-Installed-Size: 89758
+Installed-Size: 89761
 Filename: libpcre_8.43-1_mipsel_24kc.ipk
-Size: 90541
-SHA256sum: 4c293ef7dfd40c99fc6131d7325fe3b164ad033b853fffb728fad97db2dfe00a
+Size: 90540
+SHA256sum: 404c9b768fbb75ee70e4066ee34c8d3ea686297a21060d9d5914291c6d63b48a
 Description:  A Perl Compatible Regular Expression library
 
 Package: libsodium
@@ -187,10 +187,10 @@ License: ISC
 Section: libs
 Maintainer: Damiano Renfer <damiano.renfer@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 142152
+Installed-Size: 142150
 Filename: libsodium_1.0.18-1_mipsel_24kc.ipk
-Size: 143239
-SHA256sum: 883c64fc2d996c26f9c9055f877e479cb06a4be1e0a216701ef092370b182053
+Size: 143222
+SHA256sum: 357b780a0471e4c9316a204af7f16c425d594e2a215045416a1b335d4db3b3ec
 Description:  NaCl (pronounced "salt") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.
  NaCl's goal is to provide all of the core operations needed to build higher-level cryptographic tools.
  Sodium is a portable, cross-compilable, installable, packageable fork of NaCl (based on the latest released upstream version nacl-20110221), with a compatible API.
@@ -208,10 +208,10 @@ LicenseFiles: LICENSE
 Section: luci
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: all
-Installed-Size: 1640
+Installed-Size: 1833
 Filename: luci-app-chinadns_1.6.2-1_all.ipk
-Size: 2532
-SHA256sum: 8b01b54b3c01ed2ee93633d5ab4bc214cc7177fecd84c65e3088befbd262c2c6
+Size: 2735
+SHA256sum: d18d97c2671b921634de6020c5cac508c34624b6d470d33a04dcb297e22f0e14
 Description:  LuCI Support for ChinaDNS.
 
 Package: luci-app-dns-forwarder
@@ -224,10 +224,10 @@ LicenseFiles: LICENSE
 Section: luci
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: all
-Installed-Size: 1348
+Installed-Size: 1499
 Filename: luci-app-dns-forwarder_1.6.2-1_all.ipk
-Size: 2253
-SHA256sum: 016b45b0d9e1188e019f6179f4c6af9496a5b701fbb229207d000abd9fb8af8a
+Size: 2401
+SHA256sum: 23a7e13468ea9a3becc55affa8623b8742387254a9634212795768b26728c53e
 Description:  LuCI Support for Dns-Forwarder.
 
 Package: luci-app-shadowsocks-without-ipset
@@ -240,10 +240,10 @@ LicenseFiles: LICENSE
 Section: luci
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: all
-Installed-Size: 10299
+Installed-Size: 10296
 Filename: luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk
-Size: 11243
-SHA256sum: 6a201fe03a90c423ad846f1451d3db288b6b70b380719865c22875839f3c8074
+Size: 11238
+SHA256sum: fcd5526be28f8d1e05900859d3e633d480c0436745b58d4e1a14b7e9bbd602e2
 Description:  LuCI Support for shadowsocks-libev.
 
 Package: luci-app-shadowsocks
@@ -256,10 +256,10 @@ LicenseFiles: LICENSE
 Section: luci
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: all
-Installed-Size: 10420
+Installed-Size: 10416
 Filename: luci-app-shadowsocks_1.9.1-1_all.ipk
-Size: 11357
-SHA256sum: d4f4aea0809af6a6f07b861be2bbc5939ba62636d30982ca4171837d910e561c
+Size: 11354
+SHA256sum: 3aedcf39a307635460d0d30d037a05166086268510a6762f7e6d54d1aefd7c7b
 Description:  LuCI Support for shadowsocks-libev.
 
 Package: mbedtls-util
@@ -272,8 +272,8 @@ Section: utils
 Architecture: mipsel_24kc
 Installed-Size: 6923
 Filename: mbedtls-util_2.16.2-2_mipsel_24kc.ipk
-Size: 7774
-SHA256sum: c18afcfcc95a4c7186a43a8c4ffce507fc3a5e9e19a75a8b7d7b8fe7c8fb2042
+Size: 7767
+SHA256sum: 5e1a9e523ea08076acf262c82089ba22e61f9c61b6e6d0629ac9fcc04e5b4ece
 Description:  The aim of the mbedtls project is to provide a quality, open-source
  cryptographic library written in C and targeted at embedded systems.
  This package contains mbedtls helper programs for private key and
@@ -289,10 +289,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 9362
+Installed-Size: 9361
 Filename: portfwd_20191118-1_mipsel_24kc.ipk
 Size: 10125
-SHA256sum: 0d9375ac3886f7e623f6f8a6d38461070a4245ec1d66db192d8d453eca2c54fb
+SHA256sum: 647a254382df4a247acb6d1c87afd18401c5269d5577a8674204fcc546189481
 Description:  User-space TCP/UDP port forwarding services.
 
 Package: shadowsocks-libev-server
@@ -305,10 +305,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 376223
+Installed-Size: 376235
 Filename: shadowsocks-libev-server_3.3.5-1_mipsel_24kc.ipk
-Size: 376792
-SHA256sum: 969243088ecc00ee6d8d224853fea12a41fd6bbeaa139839a13bb99656095047
+Size: 376742
+SHA256sum: 041fa4a6a0c35e45f85330987d1fb79b0bd7d9d86030ecfc5fb675f83b2161ac
 Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
 
 Package: shadowsocks-libev
@@ -321,10 +321,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 901090
+Installed-Size: 901918
 Filename: shadowsocks-libev_3.3.5-1_mipsel_24kc.ipk
-Size: 900837
-SHA256sum: 000f24f1fd8d35c51e8d9d83773de23fd9d887f350acb9a4ce4cf21fcdf188b6
+Size: 901501
+SHA256sum: eb45f491725e9b2c9e07aeb112fac4afec18da7c0ef8649a6b434990788fa7cb
 Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
 
 Package: simple-obfs-server
@@ -337,10 +337,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 106383
+Installed-Size: 106376
 Filename: simple-obfs-server_0.0.5-5_mipsel_24kc.ipk
-Size: 107079
-SHA256sum: 1ea8192cee58753b14f8c7cb79cde22ebcceff3bdfee87cbbdd4bb5260ffaedb
+Size: 107106
+SHA256sum: 98a7c51255378bb6ca33fabbbb4b8b6e4c3bc8b3035648fd3bc956f596563b1f
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: simple-obfs
@@ -353,10 +353,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jian Chang <aa65535@live.com>
 Architecture: mipsel_24kc
-Installed-Size: 105013
+Installed-Size: 104974
 Filename: simple-obfs_0.0.5-5_mipsel_24kc.ipk
-Size: 105788
-SHA256sum: c2a05b8d797ceb8d9541cf9ffbb63dfe56a540166bca90ddb476bbeea2d2b9ca
+Size: 105746
+SHA256sum: f968041c13ea2d626e9599526e23f13337d86274171c6b0ef3c02041b5c80224
 Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
 
 Package: udp2raw
@@ -366,10 +366,10 @@ Source: package/openwrt-dev/net/openwrt-udp2raw
 SourceName: udp2raw
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 459920
+Installed-Size: 459612
 Filename: udp2raw_20190716-5_mipsel_24kc.ipk
-Size: 459279
-SHA256sum: 2a795ccf1797e6d96a28939b9532cc44232a13db61aa6ae9e10c3fc79eb895e0
+Size: 458834
+SHA256sum: d3bed9608b607c75cb870adbfcb62de961f6c2d25460f8f10056760d8fc08efc
 Description:  A tunnel which turns UDP traffic into encrypted UDP/FakeTCP/ICMP traffic by using raw socket,
  helps you bypass UDP firewalls or unstable UDP Environment.
 
@@ -380,10 +380,10 @@ Source: package/openwrt-dev/net/openwrt-udpspeeder
 SourceName: udpspeeder
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 198388
+Installed-Size: 198099
 Filename: udpspeeder_20190408-2_mipsel_24kc.ipk
-Size: 199084
-SHA256sum: 6ed4356e17f6e4efbc66bc1c66038bdba684973df806dcfd1ad9e92d0cf1e354
+Size: 198770
+SHA256sum: 7fbdd3d2f52547bdb18785acceea22c274338b4e295e50f4062ff2dc98430174
 Description:  A tunnel which improves your network quality on a high-latency lossy link
  by using forward error correction, for all traffics (TCP/UDP/ICMP).
 
@@ -399,7 +399,7 @@ Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
 Installed-Size: 45829
 Filename: vlmcsd_svn1113-2_mipsel_24kc.ipk
-Size: 46721
-SHA256sum: 2a8a53645a7ee6f931f21c4cf39045364b27935ce92f83ba12fc63630eb16604
+Size: 46706
+SHA256sum: 08f4d1d7f7428557ee6f0d950982a81cc1932f13ccbc2cbc872b83a83d55d4fe
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
