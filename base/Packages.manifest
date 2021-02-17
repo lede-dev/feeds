@@ -399,7 +399,7 @@ Maintainer: pexcn <i@pexcn.me>
 Architecture: mips_24kc
 Installed-Size: 45804
 Filename: vlmcsd_svn1113-2_mips_24kc.ipk
-Size: 46535
-SHA256sum: 68ca8be701acd23d23119aea219c5c4372e949c5bdfe0f9b1554bd582d514f7f
+Size: 46552
+SHA256sum: fe4f1fcfdf3924faa5cabf0ae126d361215a41b6aa4e08e0ab76b13a09aa782f
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
