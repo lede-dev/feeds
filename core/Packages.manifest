@@ -1,0 +1,16 @@
+Package: kmod-ipt-fullconenat
+Version: 4.14.221+2019-10-21-0cf3b48f-1
+Depends: kernel (=4.14.221-1-a92ce55d841785d45d31bc9fd28a9e0f), kmod-nf-ipt, kmod-nf-nat
+Source: package/openwrt-fullconenat
+SourceName: kmod-ipt-fullconenat
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: kernel
+Maintainer: Chion Tang <tech@chionlab.moe>
+Architecture: mips_24kc
+Installed-Size: 4151
+Filename: kmod-ipt-fullconenat_4.14.221+2019-10-21-0cf3b48f-1_mips_24kc.ipk
+Size: 4910
+SHA256sum: 5233edf62bf593478e8d3bc492f79fe7745bc230d410fe9451f95f82cc4db45f
+Description:  FULLCONENAT netfilter module
+
