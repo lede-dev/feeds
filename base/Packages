@@ -237,7 +237,7 @@ Section: net
 Architecture: mipsel_24kc
 Installed-Size: 45828
 Filename: vlmcsd_svn1113-2_mipsel_24kc.ipk
-Size: 46712
-SHA256sum: 88271cae5b948a829daf149c95167f43048b918ed4fe1a11c47860484bc96aa3
+Size: 46711
+SHA256sum: e9560d07f8747f9ef5eb537375ed0aaac8a95dfba070ad0e2357201712a880a9
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
