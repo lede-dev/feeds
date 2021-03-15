@@ -324,9 +324,9 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: pexcn <i@pexcn.me>
 Architecture: mipsel_24kc
-Installed-Size: 45829
+Installed-Size: 45828
 Filename: vlmcsd_svn1113-2_mipsel_24kc.ipk
-Size: 46705
-SHA256sum: 691bdc8bc3fe49fa422b718e46eafa92fbe9a722f9822fef88717227f63084f1
+Size: 46713
+SHA256sum: eeab7f5a72e6b94366efeb183b15c2f4e9e1bab53585f718a0a7d22aaf946b67
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
