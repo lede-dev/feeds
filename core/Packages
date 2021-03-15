@@ -1,12 +1,12 @@
 Package: kmod-ipt-fullconenat
-Version: 4.14.221+2019-10-21-0cf3b48f-1
+Version: 4.14.221+2020-05-09-869f1460-1
 Depends: kernel (=4.14.221-1-2e88863ccdd594fb8e842df3c25842ee), kmod-nf-ipt, kmod-nf-nat
 License: GPL-2.0
 Section: kernel
 Architecture: mipsel_24kc
-Installed-Size: 4641
-Filename: kmod-ipt-fullconenat_4.14.221+2019-10-21-0cf3b48f-1_mipsel_24kc.ipk
-Size: 5400
-SHA256sum: 51dcdaa412504a9f36b71b420a11388b022b06da32e542b75fec148a369e9a1d
+Installed-Size: 7195
+Filename: kmod-ipt-fullconenat_4.14.221+2020-05-09-869f1460-1_mipsel_24kc.ipk
+Size: 8021
+SHA256sum: 7be4ebd017a32478cbac9e5813a336418161b779cdcdb4a1b7df936a83d839db
 Description:  FULLCONENAT netfilter module
 
