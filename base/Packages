@@ -241,15 +241,26 @@ SHA256sum: 463f11bf12d19fb067b7f1557900658143357a6a69456cdeb261e65b87e8e512
 Description:  A tunnel which improves your network quality on a high-latency lossy link
  by using forward error correction, for all traffics (TCP/UDP/ICMP).
 
+Package: v2ray-plugin
+Version: 1.3.1-1
+Depends: libc
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 2911593
+Filename: v2ray-plugin_1.3.1-1_mipsel_24kc.ipk
+Size: 2912798
+SHA256sum: 3305c90f471f6e45e1e0414fba62d0fbe7f3549411acb0440ea88613a8bfc4db
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray.
+
 Package: vlmcsd
 Version: svn1113-2
 Depends: libc, libpthread
 License: GPL-3.0
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 45828
+Installed-Size: 45827
 Filename: vlmcsd_svn1113-2_mipsel_24kc.ipk
-Size: 46708
-SHA256sum: 958450d9422034a098bf1d141760c5e050c5a8ed0717c2d3a97718f3c12ab94e
+Size: 46714
+SHA256sum: 8ab4f2101d27e48104d4c91c5d86dcc482018ae3e7cfddfd20501e5e528175ab
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
