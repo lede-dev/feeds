@@ -146,15 +146,15 @@ SHA256sum: 68b38553e08cf40a507bcf05c01b9cbcf813233791620cbe245f28e41d84e8e5
 Description:  LuCI Support for Dns-Forwarder.
 
 Package: luci-app-shadowsocks
-Version: 2.0.1-1
+Version: 2.0.2-1
 Depends: libc, iptables, wget, resolveip, ipset
 License: GPLv3
 Section: luci
 Architecture: all
-Installed-Size: 13313
-Filename: luci-app-shadowsocks_2.0.1-1_all.ipk
-Size: 14233
-SHA256sum: 7a8259a6f79e39b566d10fbbe018a2d0998aa5c57f7cf364571b6762ce0ef8ea
+Installed-Size: 13333
+Filename: luci-app-shadowsocks_2.0.2-1_all.ipk
+Size: 14253
+SHA256sum: 15bb7be437bf8f3cc25ff61149b5ce05447c5ca21d8f7ffa33d6a30bdc84acc5
 Description:  LuCI Support for shadowsocks-libev.
 
 Package: portfwd
@@ -260,8 +260,8 @@ Section: net
 Architecture: mipsel_24kc
 Installed-Size: 45828
 Filename: vlmcsd_svn1113-2_mipsel_24kc.ipk
-Size: 46712
-SHA256sum: 05154272c020efebed838ae61bd8df54cf7447271a5bd8322f1eb7d2a71cc865
+Size: 46715
+SHA256sum: 0099c5f0f796f0e3b70b5fc3696bcb4588d3f4336a8c3b3dceac3f37b28106d6
 Description:  KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin).
 
 Package: xray-plugin
